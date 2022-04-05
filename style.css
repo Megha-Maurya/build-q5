@@ -1,0 +1,42 @@
+body{
+    background-color: lavenderblush;
+    }
+
+#red{
+    color: red;
+    border-color: red;
+}
+
+#green{
+    color: green;
+    border-color: green;
+}
+
+#blue{
+    color: blue;
+    border-color: blue;
+}
+
+.container{
+    margin: auto;
+    padding-top: 5rem;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: larger;
+}
+
+#text{
+    margin: 1rem;
+    padding: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+}
+
+button{
+    padding: 5px;
+    margin: 5px;
+    font-size: medium;
+    border-radius: 0.5rem;
+    background-color: white;
+}
+
